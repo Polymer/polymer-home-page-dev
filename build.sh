@@ -1,3 +1,3 @@
 #!/bin/bash
 
-vulcanize polymer-home-page.html --inline -o polymer-home-page-built.html
+vulcanize polymer-home-page.html -o polymer-home-page.min.html --strip --inline 
