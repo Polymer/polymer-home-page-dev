@@ -2,7 +2,8 @@
   "name": "polymer-home-page-dev",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#master",
-    "polymer-doc-viewer": "Polymer/polymer-doc-viewer#master"
-  }
+    "polymer": "Polymer/polymer#0.2.1",
+    "polymer-doc-viewer": "Polymer/polymer-doc-viewer#0.2.1"
+  },
+  "version": "0.2.1"
 }
